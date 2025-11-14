@@ -4,14 +4,18 @@
       "expiryDate": "2025-12-31",
       "status": "active",
       "maxDevices": 2,
-      "deviceId": "TP1A.220624.014-48z58q41"
+      "deviceIds": [
+        "TP1A.220624.014-48z58q41"
+      ],
+      "registeredDevices": 1
     },
     "CLIENTE-001": {
       "expiryDate": "2025-06-30",
-      "status": "active", 
+      "status": "active",
       "maxDevices": 2,
-      "deviceId": ""
+      "deviceIds": [],
+      "registeredDevices": 0
     }
   },
-  "lastUpdated": "2024-01-15"
+  "lastUpdated": "2025-01-15"
 }
