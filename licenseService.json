@@ -4,8 +4,10 @@
       "expiryDate": "2025-12-31",
       "status": "active",
       "maxDevices": 2,
-      "deviceIds": [],
-      "registeredDevices": 0
+      "deviceIds": [
+        "KI7-V7510AACDGHJKLMN-T-GL-250218V5302"
+      ],
+      "registeredDevices": 1
     },
     "CLIENTE-001": {
       "expiryDate": "2025-06-30",
@@ -15,5 +17,5 @@
       "registeredDevices": 0
     }
   },
-  "lastUpdated": "2025-11-15"
+  "lastUpdated": "2025-11-16"
 }
