@@ -1,7 +1,7 @@
 {
   "licenses": {
     "DEMO-123": {
-      "expiryDate": "2025-12-31",
+      "expiryDate": "2025-10-31",
       "status": "active",
       "maxDevices": 2,
       "deviceIds": [
